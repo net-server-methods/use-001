@@ -1,0 +1,20 @@
+{
+  "name": "net-server-method-use-001",
+  "version": "0.0.0",
+  "description": "provides a net.Server method for adding request handlers to the Server",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "net.Server method",
+    "net.Server method use"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/net-server-methods/use-001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/net-server-methods/use-001/issues"
+  },
+  "homepage": "https://github.com/net-server-methods/use-001#readme"
+}
